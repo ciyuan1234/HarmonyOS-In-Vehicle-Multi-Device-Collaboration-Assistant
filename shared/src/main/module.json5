@@ -1,0 +1,13 @@
+{
+  "module": {
+    "name": "shared",
+    "type": "har",
+    "deviceTypes": [
+      "phone",
+      "car",
+      "watch"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}

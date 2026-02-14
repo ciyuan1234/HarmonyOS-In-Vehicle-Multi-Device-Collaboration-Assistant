@@ -1,0 +1,12 @@
+{
+  "name": "car",
+  "version": "1.0.0",
+  "description": "Car module for vehicle assistant application",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "../shared": "file:../shared"
+  }
+}
+

@@ -1,0 +1,12 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "Watch module for vehicle assistant application",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "../shared": "file:../shared"
+  }
+}
+
