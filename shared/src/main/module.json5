@@ -5,9 +5,7 @@
     "deviceTypes": [
       "phone",
       "car",
-      "watch"
-    ],
-    "deliveryWithInstall": true,
-    "installationFree": false
+      "wearable"
+    ]
   }
 }
